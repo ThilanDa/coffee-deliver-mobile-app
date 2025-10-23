@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lab_exam_2</string>
+    <string name="app_name">EspressoMe</string>
     <string name="notificationText">notification</string>
     <string name="Pop_up_Notification">Pop-up Notification</string>
     <string name="contact">Contact Us</string>

@@ -36,7 +36,7 @@
     <string name="sign6">Already have an account?</string>
     <string name="signin1">Sign In</string>
     <string name="signin2">Forgot Password?</string>
-    <string name="signin4">Don\'t have an account?</string>
+    <string name="signin4">Don\'t have an account yet?</string>
     <string name="signin7">sign in with google</string>
     <string name="signin6">Sign in with facebook</string>
     <string name="order1">Delivery</string>
@@ -51,5 +51,5 @@
     <string name="profile3">My Address</string>
     <string name="profile2">Change Password</string>
     <string name="profile6">Log Out</string>
-    <string name="success">Payment Successfully...!</string>
+    <string name="success">Payment Successful!</string>
 </resources>
